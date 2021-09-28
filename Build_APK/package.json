@@ -13,7 +13,7 @@
     "author": "BenChaliah",
     "license": "Apache-2.0",
     "dependencies": {
-        "cordova-android": "^9.0.0",
+        "cordova-android": "^9.1.0",
         "cordova-plugin-autostart": "^2.3.0",
         "cordova-plugin-background-mode": "file:../APK_Plugins/cordova-plugin-background-mode",
         "cordova-plugin-device": "^2.0.3",
